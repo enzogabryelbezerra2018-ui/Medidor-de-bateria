@@ -1,0 +1,1 @@
+# Medidor-de-bateria
